@@ -5,8 +5,7 @@
 ・A first-order precision upwind-difference method is used for discretization.
 
 ## demo
-・q  
-![](movie/nonvisco_burgers_1d.mp4)  
+https://github.com/taku31/nonvisco_burgers_1d/assets/37662336/92dac57b-14fb-4c19-a9e5-e49123a7d12a
 
 ## Author
 T.Nakabayashi
